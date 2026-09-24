@@ -1,16 +1,14 @@
-## Hi there 👋
+# Seb Borgne
 
-<!--
-**SebastienBorgne/SebastienBorgne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ingénrier Data alternant** @ [Groupe Avril](https://www.groupe-avril.com) · **M2 Data/AI** @ Sup de Vinci  
+📍 Rennes, France
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+**Data** · Python · PySpark · Databricks · Delta Lake · Pandas   Torch
+**Cloud & Infra** · Azure · Kubernetes (AKS) · Docker  
+**Backend** · Python · PHP · RabbitMQ / Kafka
+**DevOps** · CI/CD · Git · Docker · Kubernetes
+---
